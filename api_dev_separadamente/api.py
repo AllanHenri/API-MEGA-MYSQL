@@ -1,6 +1,6 @@
 import requests
 import json
-def api(password, username, tenantId)
+def api(password, username, tenantId):
   url = "https://rest.megaerp.online/api/Auth/SignIn"
 
   payload = json.dumps({
