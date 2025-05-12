@@ -2,8 +2,8 @@ from datetime import datetime
 def cursor():
     BD_CONFIG = {
     "host": "",
-    "port": ,
     "user": "",
+    "port": 0,
     "password": "",
     "database": "",
     "auth_plugin": ""  # Adiciona suporte ao método correto

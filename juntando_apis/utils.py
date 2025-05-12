@@ -2,7 +2,7 @@ from datetime import datetime
 def cursor():
     BD_CONFIG = {
     "host": "",
-    "port": ,
+    "port": 0,
     "user": "",
     "password": "",
     "database": "",
